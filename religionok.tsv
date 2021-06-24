@@ -1,0 +1,5 @@
+entidad	desc_entidad	municipio	desc_municipio	id_indicador	indicador	1990	2000	2010	unidad_medida,
+9	Ciudad de México	0	Estatal	6200205256	Población de 5 años y más con religión no especificada	26727	56893	210097	Personas
+9	Ciudad de México	0	Estatal	6200205257	Población de 5 años y más católica	6814434	6999402	6781382	Personas
+9	Ciudad de México	0	Estatal	6200205273	Población de 5 años y más con religión distinta de católica	371715	458946	595395	Personas
+9	Ciudad de México	0	Estatal	6200205289	Población de 5 años y más sin religión	160363	223066	447935	Personas
