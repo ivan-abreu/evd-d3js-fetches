@@ -11,10 +11,10 @@ d3.json(urljson).then(function(data) {
 
 d3.csv(urlcsv).then(function(data) {
   console.log( data )
-  data.map( (ele,i,cebeceras) => {
-    console.log( cabeceras)
+  data.map( (ele,i) => {
+    console.log( Object.keys(ele) )
     d3.select("body").append('div')
-                    .text(`${i+1}- ${ele.indicador}`)
+                    .text(`${Object.keys(ele)[]} ${i+1}- ${ele.indicador}`)
   })
   
 });
